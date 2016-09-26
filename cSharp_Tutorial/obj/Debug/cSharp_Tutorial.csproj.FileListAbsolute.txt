@@ -1,0 +1,6 @@
+c:\users\caleb\documents\visual studio 2015\Projects\cSharp_Tutorial\cSharp_Tutorial\bin\Debug\cSharp_Tutorial.exe.config
+c:\users\caleb\documents\visual studio 2015\Projects\cSharp_Tutorial\cSharp_Tutorial\bin\Debug\cSharp_Tutorial.exe
+c:\users\caleb\documents\visual studio 2015\Projects\cSharp_Tutorial\cSharp_Tutorial\bin\Debug\cSharp_Tutorial.pdb
+c:\users\caleb\documents\visual studio 2015\Projects\cSharp_Tutorial\cSharp_Tutorial\obj\Debug\cSharp_Tutorial.csprojResolveAssemblyReference.cache
+c:\users\caleb\documents\visual studio 2015\Projects\cSharp_Tutorial\cSharp_Tutorial\obj\Debug\cSharp_Tutorial.exe
+c:\users\caleb\documents\visual studio 2015\Projects\cSharp_Tutorial\cSharp_Tutorial\obj\Debug\cSharp_Tutorial.pdb
